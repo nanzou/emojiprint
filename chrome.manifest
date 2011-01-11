@@ -1,0 +1,6 @@
+content	emojiprint jar:chrome/emojiprint.jar!/jar:chrome/emojiprint.jar!/content/
+content	emojiprint jar:chrome/emojiprint.jar!/content/  contentaccessible=yes
+locale	emojiprint en-US jar:chrome/emojiprint.jar!/jar:chrome/emojiprint.jar!/locale/en-US/
+skin	emojiprint classic/1.0 jar:chrome/emojiprint.jar!/jar:chrome/emojiprint.jar!/skin/
+overlay chrome://messenger/content/messenger.xul chrome://emojiprint/content/messengerOverlay.xul
+overlay chrome://messenger/content/messageWindow.xul chrome://emojiprint/content/messageWindowOverlay.xul

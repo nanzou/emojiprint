@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://emojiprint/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://emojiprint/locale/emojiprint.dtd">
+<overlay id="emojiprint-overlay"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="main.js"/>
+  <script src="mail.js"/>
+  <script src="carrier.js"/>
+  <script src="converter.js"/>
+  <script src="util.js"/>
+  <script src="css.js"/>
+</overlay>
